@@ -67,7 +67,7 @@
     "@types/inquirer": "6.5.0",
     "@types/js-yaml": "3.12.5",
     "@types/mkdirp-promise": "5.0.0",
-    "@types/mz": "2.7.1",
+    "@types/mz": "2.7.2",
     "@types/node": "12.12.31",
     "download-cli": "^1.1.1",
     "eslint": "^7.10.0",
